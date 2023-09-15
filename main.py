@@ -7,8 +7,7 @@ def double_elements(numbers):
     - list: List of doubled numbers.
     """
     # Your code here
-    return None
-
+    return list(map(lambda x: x * 2, numbers))
 
 
 if __name__ == '__main__':
