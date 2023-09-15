@@ -1,12 +1,17 @@
-def calculate():
+def double_elements(numbers):
     """
-    calculates the total
-    :return: None
+    Double each element in the list using the map function.
+    Args:
+    - numbers (list): List of numbers to be doubled.
+    Returns:
+    - list: List of doubled numbers.
     """
-    price = 15.75
-    quantity = 3  # TODO change quantity to 5
-    print(f'Total: {price * quantity}')
+    # Your code here
+    return None
+
 
 
 if __name__ == '__main__':
-    calculate()
+    numbers = [1, 2, 3, 4, 5]
+    doubled_list = double_elements(numbers)
+    print(doubled_list)
