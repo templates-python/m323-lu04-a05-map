@@ -6,9 +6,8 @@ def double_elements(numbers):
     Returns:
     - list: List of doubled numbers.
     """
-    # Your code here
-    return None
-
+    # TODO: Your code here
+    ...
 
 
 if __name__ == '__main__':
