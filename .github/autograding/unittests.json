@@ -1,0 +1,8 @@
+[
+  {
+    "name": "test_double_elements",
+    "function": "test_double_elements",
+    "timeout": 10,
+    "points": 1
+  }
+]
