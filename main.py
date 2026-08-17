@@ -1,3 +1,8 @@
+"""Verdoppeln der Elemente in einer Liste.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/map1
+"""
+
 def double_elements(numbers):
     """
     Double each element in the list using the map function.
