@@ -16,6 +16,6 @@ def double_elements(numbers):
 
 
 if __name__ == '__main__':
-    numbers = [1, 2, 3, 4, 5]
-    doubled_list = double_elements(numbers)
+    demo_numbers = [1, 2, 3, 4, 5]
+    doubled_list = double_elements(demo_numbers)
     print(doubled_list)
